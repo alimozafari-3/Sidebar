@@ -66,3 +66,29 @@
      margin-left: 0.5rem;
  }
 
+ .nav__toggle {
+    position: absolute;
+    top: 3rem;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    background-color: #f5a623;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.nav__link {
+    display: flex;
+    align-items: center;
+    padding: 1.2rem 1rem 1.2rem;
+    color: white;
+    border-radius: 0.7rem;
+}
+
+.nav__link:hover {
+    background-color: #f5a623;
+    color: #12192c;
+}
