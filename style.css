@@ -89,3 +89,21 @@
      background-color: #f5a623;
      color: #12192c;
  }
+
+ .nav__list {
+     padding: 0;
+ }
+
+ .active {
+     background-color: #12192c;
+     color: #f5a623;
+ }
+
+ .show {
+     width: 51px;
+ }
+
+ .rotate {
+     transform: rotate(180deg);
+     transition: 0.5s;
+ }
