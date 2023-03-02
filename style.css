@@ -107,3 +107,18 @@
      transform: rotate(180deg);
      transition: 0.5s;
  }
+
+ .expander {
+     padding: 1rem 10rem 0 4rem;
+     transition: 0.5s;
+
+ }
+
+ img {
+     width: 25rem;
+     height: 25rem;
+     margin: 5px;
+     border-radius: 6px;
+     opacity: 0.6;
+
+ }
